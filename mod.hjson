@@ -1,0 +1,7 @@
+name: "drawforeshadows"
+displayName: "Draw Foreshadows"
+author: "affl1ct"
+description: "Draws foreshadows shoot range"
+version: "1.1"
+minGameVersion: "146"
+hidden: true
