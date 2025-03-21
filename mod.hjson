@@ -5,4 +5,4 @@ description: "Draws foreshadows shoot range"
 version: "1.1"
 minGameVersion: "146"
 hidden: true
-repo: https://github.com/afflictnya/DrawForeshadowsMod
+repo: "https://github.com/afflictnya/DrawForeshadowsMod"
